@@ -1,0 +1,18 @@
+{
+    "fb_banner": "",
+    "fb_interstitial": "",
+    "fb_native": "",
+
+    "admob_pub_id": "",
+    "admob_app_id": "",
+    "admob_banner": "",
+    "admob_interstitial": "",
+    "admob_native": "",
+    "admob_open":"",
+
+    "pause_all": true,
+    "ad_type": "0",
+    "new_pkg": "com.cll.videostatussaver",
+    "is_version": "false"
+}
+
