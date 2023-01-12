@@ -2,26 +2,28 @@
   "error": false,
   "isNewApp":false,
   "app_pkg": "com.appzombies.english.gujarati.translator",
-  "fbBannr": "YOUR_PLACEMENT_ID",
-  "fbInter": "YOUR_PLACEMENT_ID",
-  "fbNative": "YOUR_PLACEMENT_ID",
+  "fbBannr": "1785916961777140_1785917935110376",
+  "fbInter": "1785916961777140_1785917898443713",
+  "fbNative": "1785916961777140_1785917788443724",
   "fbNativeBnnr": "YOUR_PLACEMENT_ID",
-  "AdxBannr": "ca-app-pub-3940256099942544/6300978111",
-  "AdxInter": "ca-app-pub-3940256099942544/1033173712",
-  "AdxbInterSplash":"",
-  "AdxNative": "ca-app-pub-3940256099942544/2247696110",
-  "AdxOpenAds": "ca-app-pub-3940256099942544/3419835294",
   
-  "AdmobBannr": "ca-app-pub-3940256099942544/6300978111",
-  "AdmobInter": "ca-app-pub-3940256099942544/1033173712",
+  "AdxBannr": "/21753324030,22764336884/com.il.all.bank.balance.check.bankbalancecheck.allbankbalanceinquiry.allbankbalance_Banner",
+  "AdxInter": "/21753324030,22764336884/com.il.all.bank.balance.check.bankbalancecheck.allbankbalanceinquiry.allbankbalance_Interstitial",
+  "AdxbInterSplash":"",
+  "AdxNative": "/21753324030,22764336884/com.il.all.bank.balance.check.bankbalancecheck.allbankbalanceinquiry.allbankbalance_Native",
+  "AdxOpenAds": "/21753324030,22764336884/com.il.all.bank.balance.check.bankbalancecheck.allbankbalanceinquiry.allbankbalance_AppOpen",
+  
+  "AdmobBannr": "ca-app-pub-8532501034568787/4427587795",
+  "AdmobInter": "ca-app-pub-8532501034568787/7380483370",
   "AdmobInterSplash":"",
-  "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-  "AdmobOpenAds": "ca-app-pub-3940256099942544/3419835294",
+  "AdmobNative": "ca-app-pub-8532501034568787/7380483370",
+  "AdmobOpenAds": "ca-app-pub-8532501034568787/9787154864",
   
   "admob_pub_id": "pub-3940256099942544",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "adType": "admob",
   "adStatus": "admob",
   "loadMore":false,
-  "adMobTime":20
+  "adMobTime":40
 }
+
